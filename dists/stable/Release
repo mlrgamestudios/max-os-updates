@@ -1,0 +1,17 @@
+Origin: Max OS
+Label: Max OS
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Description: Max OS updates
+Date: Fri, 25 Sep 2026 00:22:35 GMT
+MD5Sum:
+ 2884e38d5a8fe77181d4dd6795f47cdd             1243 main/binary-amd64/Packages
+ 23ec357b40def26284f0c1fd00f6241a              764 main/binary-amd64/Packages.gz
+SHA1:
+ baa57d1cd4c91a7cf23607d609f37cd863ead66b             1243 main/binary-amd64/Packages
+ 8765ebb50d1a3b752f09f27dcaf5b605aee827a6              764 main/binary-amd64/Packages.gz
+SHA256:
+ 254baebd1f928f43ccf0ebb70deee38d21bb0c611b0a81818c708ffa0ed5620f             1243 main/binary-amd64/Packages
+ 7ca38d45e8073954334c6927ae3b452911e65a4775fe563e2c8c7cb91324262a              764 main/binary-amd64/Packages.gz
