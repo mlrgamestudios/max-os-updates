@@ -8,30 +8,30 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Max OS updates
-Date: Fri, 25 Sep 2026 00:25:29 GMT
+Date: Fri, 25 Sep 2026 00:29:16 GMT
 MD5Sum:
- 7fe674c06a523b0fbbae4f121214babe             2487 main/binary-amd64/Packages
- 7eb92650d1feba7b35627e1e9d7d1e6a              894 main/binary-amd64/Packages.gz
+ fd531c3ea88f7110a9ff78c4e79960a1             3731 main/binary-amd64/Packages
+ d4a5d207dcbd71fd204e40c324ad507e             1013 main/binary-amd64/Packages.gz
 SHA1:
- 9d540b4685366f733c7d12a4f9ff93ad3bb34e6f             2487 main/binary-amd64/Packages
- 8e70f2ec4560704888ab8e4be1872e4efb9ecc24              894 main/binary-amd64/Packages.gz
+ 4b2a8dfc1d2ba03be57a4fd7df1159e202ebb524             3731 main/binary-amd64/Packages
+ 2b3027ce2778c413148a0a32743c4761937ddb99             1013 main/binary-amd64/Packages.gz
 SHA256:
- b93a26d5cce1b5fbfc26bbf30b88b33835c9b85953f231d701b82c4d52f5270a             2487 main/binary-amd64/Packages
- 7bf933a424913d33d7476ddcaa7078128f85800eced79b7e5a3dc6701784bd1f              894 main/binary-amd64/Packages.gz
+ 076cdd8a5b1c8c05a463e97ace1c8c15f864890b7e8d6a61e979f47aa8d40b03             3731 main/binary-amd64/Packages
+ 8d5380e4edcc6bafc3918ad35d60674de029388a7b7c6af23758a79a51aab47a             1013 main/binary-amd64/Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEYVsGvyaNZk/BIsBUI24VfvycJXQFAmq1v3kACgkQI24Vfvyc
-JXQIvw//QTBUOxZw2twUdTS4YTBsx7Egj7D9n86O+TSJ9Qdb2VuhSW+S5XrdwvBB
-/EEsZCbiOVE2TzB0OddB+vnl4fPR1FF69qbYswMh3hHrE0Q7/cPVHvA1NHjnjEVe
-p8wYI7F0bA2/BoGPXkaxBXD/uGSFDZmkI2d2GG9ngXoUOBvNjFkRR5Q++Fb0hze6
-SFj3eFovdDOTa2MjHZ69qkDFpIYFE4mg8g/oxsYg8Tcp62IeUyhqI7ThesNTc4g6
-L/NwFKmDINfwuIFtCVFSk//X1itxfEWWtBFFOy+KlZS4XtvYg7pJANaIKKmFha42
-5LkvvPb1ahYOUEbqw+QnPk+fGaDzEHAEH7ne/E3uYEH6Ghvz1POCsW1g66I5x402
-iGunRr5sdFPeC4VYbKJsGW8L/KrWMPYY0rK5OF/sIPFXpFLm0L1ULQ5rRE+xj4BR
-6wnR5eABf8xpizymkr24abUgbcYiFosfaP2VWEuoOSYth6Ml86sJe+LKF4iWoHCQ
-5frj7BL9CzU3rr/cyzugipYmM79CpvvXcOYc0wfwe+ggiv5wfwZ5frhIYgXbNHus
-/MaWEqfA2ZMjgzk8cCazAloU3lr0AlDXzyGrocaueFZ0dunG091m4qJTLCpwUCVR
-/ab0qiFXHTo4btMnWM/eA1VZSrp67w0IAQdHI4Fq3m0E4MHrWms=
-=cFju
+iQIzBAEBCAAdFiEEYVsGvyaNZk/BIsBUI24VfvycJXQFAmq1wFwACgkQI24Vfvyc
+JXSm0Q//Qh9S0cBBL6qlNUcsajYQTyK3addzRVy/7hZS7GGkfYuvhLhQ3IqY8O90
+YujzXo8JyKib1gV8f2S+8z3n+DkSlPUTPURR15lqRH1++GI2tRyB6wdJDXeUhVCP
+WOy2+/KqScb54Zx1rZKrNlM82/9qaBHITY8Pqheuc4gisq7fTZTghrBZqn5JuRZs
+meTcse6N9ShGPAj+O0jmY/jCO5rueUJmoblOq0J7lDyTXchLs5LMLpNSyjksAd7W
+zn4vis/XwPzk4AYZK9DIUwlGzSjSif23zoj9mwu5HmO8/NraP8L/mvMAyyWho6VB
+lSi+rpG9QHx5A4bB55kNSpAz5TO66L8jGzyCgWRr+nr4hGWUSglLVeQau337+6a3
+kfLyn8LAG4Hqo12MkYG5SPVPsTn0lR+UduafHMqOPRsNYJ7SdnqkZCHe9Q4smSel
+Kc9KPLyd4CCn6yTvJu+DSq+DD2MEr/jiBqMgsNuhsTPsIpZZ1U8uVriehlGw6fSP
+ZGXsCrTKsmIBYvtMTDayzzrS7Gi4TYjtDKLK7WyRm/f6IPVtHxOBNgZQOtOJK5oD
+PJINvB2ojfxz10SXVwtOd5HmVUGx3Oyzm6O939nSWD0K+x6PyWNlpukXPwUT4eG5
+fXO/nYgWy9IdUaUDewr6a411FejrGR8MPqjtTOWTqdTp86Av1G8=
+=b6eX
 -----END PGP SIGNATURE-----
