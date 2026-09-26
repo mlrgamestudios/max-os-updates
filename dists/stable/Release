@@ -5,13 +5,13 @@ Codename: stable
 Architectures: amd64
 Components: main
 Description: Max OS updates
-Date: Fri, 25 Sep 2026 05:53:01 GMT
+Date: Sat, 26 Sep 2026 03:12:28 GMT
 MD5Sum:
- 776e0b9735905cd4dba08f769a5fa344             3913 main/binary-amd64/Packages
- b8e0eb5a356caa281044f00120535306             1100 main/binary-amd64/Packages.gz
+ 58cc4cfdbbaea1660465d45cc26794b7             4004 main/binary-amd64/Packages
+ e931539787945b1ec6ebe0879b49dbc4             1085 main/binary-amd64/Packages.gz
 SHA1:
- 64d4b0fdf2be77ee5758d0615cdbc49a9b48a4c2             3913 main/binary-amd64/Packages
- 37ed15cd2349dd514b7de55eccc78f2114a26694             1100 main/binary-amd64/Packages.gz
+ 5cdedc2385c82c7db50e9a72dd54d29821463c25             4004 main/binary-amd64/Packages
+ 4af8119e418d42d500739d1b5e843a62257e7e1a             1085 main/binary-amd64/Packages.gz
 SHA256:
- 46464b968b566156d7f42d73904af6b834cd0e4d7e1b4f3338dce0e924ee3ffb             3913 main/binary-amd64/Packages
- 818a3d51cd2e0245f5d0405ee3915d6aceefeae0c0d614cc039d0456a17c8d44             1100 main/binary-amd64/Packages.gz
+ 581c10f17b108900473218a2bd5c54517353308bd932fcc837cca4eb09235983             4004 main/binary-amd64/Packages
+ dd97f73553df0f6d7c5bd3ba72cf75901ede08f5ae15b9456e7cedf5a546f6a1             1085 main/binary-amd64/Packages.gz
