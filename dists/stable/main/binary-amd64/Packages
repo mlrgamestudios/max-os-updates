@@ -1,28 +1,4 @@
 Package: maxos-desktop
-Version: 1.0.20260925.0458
-Architecture: all
-Maintainer: Max OS <mlrgamestudios@users.noreply.github.com>
-Installed-Size: 34660
-Section: metapackages
-Priority: optional
-Depends: plasma-desktop, plasma-workspace, plasma-session-wayland, kwin-wayland, sddm, sddm-theme-breeze,
- plasma-nm, plasma-pa, powerdevil, bluedevil, plasma-discover, plasma-discover-backend-flatpak, flatpak,
- xwayland, pipewire, pipewire-pulse, wireplumber, network-manager, zram-tools, plymouth, kdialog, konsole,
- dolphin, qml-qt6, mesa-utils, wine, winetricks, gamemode, power-profiles-daemon, ubuntu-drivers-common,
- pciutils, efibootmgr, os-prober, unattended-upgrades, curl, icoutils, bash-completion
-Recommends: kate, kcalc, gwenview, okular, ark, kde-spectacle, libreoffice-writer, libreoffice-calc,
- libreoffice-impress, haruna, mangohud, cups, print-manager, iio-sensor-proxy, fwupd, 7zip, dxvk,
- dxvk-wine64, steam-devices, kio-extras, ffmpegthumbs
-Description: Max OS
- The Max OS desktop: its look, programs, settings and one-click app installers.
- Updated through the Max OS update server.
-Filename: pool/main/maxos-desktop_1.0.20260925.0458_all.deb
-Size: 33717512
-MD5sum: 9ae83574dc9c8d8a88c7301df48943ff
-SHA1: 998598c452c0ca5a72d89203b6a60987f559f5c8
-SHA256: d0b746670955c061aee04ab52d8033c644804eccdfece5521556df661ae366ff
-
-Package: maxos-desktop
 Version: 1.0.20260925.0551
 Architecture: all
 Maintainer: Max OS <mlrgamestudios@users.noreply.github.com>
@@ -69,3 +45,27 @@ Size: 33722888
 MD5sum: 709489103a1f8581e1e4d418d407b044
 SHA1: a487b0372ab039a44eedc1560a7ced3d66e8be81
 SHA256: 45e5d2bcae4116558bd5b31d81dfb2507bd1e38a40395f861893329e4a8bfa43
+
+Package: maxos-desktop
+Version: 1.0.20260926.0322
+Architecture: all
+Maintainer: Max OS <mlrgamestudios@users.noreply.github.com>
+Installed-Size: 34788
+Section: metapackages
+Priority: optional
+Depends: plasma-desktop, plasma-workspace, plasma-session-wayland, kwin-wayland, sddm, sddm-theme-breeze,
+ plasma-nm, plasma-pa, powerdevil, bluedevil, plasma-discover, plasma-discover-backend-flatpak, flatpak,
+ xwayland, pipewire, pipewire-pulse, wireplumber, network-manager, zram-tools, plymouth, kdialog, konsole,
+ dolphin, qml-qt6, mesa-utils, wine, winetricks, gamemode, power-profiles-daemon, ubuntu-drivers-common,
+ pciutils, efibootmgr, os-prober, unattended-upgrades, curl, icoutils, bash-completion
+Recommends: kate, kcalc, gwenview, okular, ark, kde-spectacle, libreoffice-writer, libreoffice-calc,
+ libreoffice-impress, haruna, mangohud, cups, print-manager, iio-sensor-proxy, fwupd, 7zip, dxvk,
+ dxvk-wine64, steam-devices, kio-extras, ffmpegthumbs
+Description: Max OS
+ The Max OS desktop: its look, programs, settings and one-click app installers.
+ Updated through the Max OS update server.
+Filename: pool/main/maxos-desktop_1.0.20260926.0322_all.deb
+Size: 33722992
+MD5sum: 75641be744128312c80eb681a489d6d9
+SHA1: 74466a47f7babb94fab0d181ba4845660434f9a2
+SHA256: 9dfec4083c805a4c441a05cfca6995a190335593cd76d8957e5b6b4e9de8dad9
